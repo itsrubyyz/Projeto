@@ -22,5 +22,14 @@ Todos os commits devem seguir o formato:
 =======
 # Meu Projeto
 
+## Fluxo de Aprovação
+
+- Pull Requests devem ser aprovados por pelo menos um revisor.
+- Na aprovação, comentar confirmando:
+  - Funcionalidade correta
+  - Sem erros aparentes
+  - Não compromete outras partes
+  - Código organizado e legível
+- Após aprovação, fazer o merge.
 
 
